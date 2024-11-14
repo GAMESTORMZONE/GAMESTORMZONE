@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm GAMESTORMZONE</h1>
 <p align="center">I do a lot of things :)</p>
+<style>
+  .animate {
+    display: inline-block;
+    animation: glow 1.5s ease-in-out infinite alternate;
+    color: #ff5733;
+    font-weight: bold;
+  }
+
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 10px #ff5733, 0 0 20px #ff5733, 0 0 30px #ff5733;
+    }
+    to {
+      text-shadow: 0 0 20px #ff7f50, 0 0 30px #ff7f50, 0 0 40px #ff7f50;
+    }
+  }
+</style>
 
 ---
 

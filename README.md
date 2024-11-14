@@ -51,7 +51,7 @@
 
 ### 📫 How to reach me
 - 📍 **Location**: Hungary
-- 📧 **Email**: gamestormzone@example.com
+- 📧 **Email**: gamestormzone@gmail.com
 - 📱 **Social Media**: [Discord](https://discord.gg/RMCZQU9Y)
 
 ---

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm GAMESTORMZONE</h1>
 <p align="center">I do a lot of things :)</p>
+
 <style>
   .animate {
     display: inline-block;

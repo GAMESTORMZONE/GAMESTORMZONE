@@ -59,8 +59,16 @@
 ### 🎉 Fun Fact
 I’m passionate about combining creativity and technology to make interactive and immersive experiences!
 
-###📱 Websites and Games just for FUN!
+---
 
-🧑‍💻 https://gamestormzone.github.io/
+### 📱 Websites and Games just for FUN!
 
-🔥🔥 https://gamestormzone.github.io/platformer.html
+<div align="center">
+  <a href="https://gamestormzone.github.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Visit%20Main%20Site-0d6efd?style=for-the-badge&logo=github&logoColor=white" alt="Main Site Badge">
+  </a>
+  <a href="https://gamestormzone.github.io/platformer.html" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Play%20Platformer%20Game-e63946?style=for-the-badge&logo=gamepad&logoColor=white" alt="Platformer Game Badge">
+  </a>
+</div>
+
